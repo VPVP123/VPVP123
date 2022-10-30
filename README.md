@@ -2,7 +2,7 @@
     <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif">
 </section>
 <h1 align="center">Hello and welcome to my github 👋, I'm Victor</h1>
-<h3 align="center">A passionate developer from Sweden</h3>
+<h3 align="center">Software developer from the greatest country in the world, Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpvp123&label=Profile%20views&color=0e75b6&style=flat" alt="vpvp123" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **victorsv@live.se**
 
-- ⚡ Fun fact about me **I am cool 😎**
+- ⚡ Fun fact about me, **I am cool 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
