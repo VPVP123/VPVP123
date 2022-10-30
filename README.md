@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **victorsv@live.se**
 
-- ⚡ Fun fact **I am double transgender**
+- ⚡ Fun fact about me **I am cool 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
