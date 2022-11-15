@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **victorsv@live.se**
 
-- ⚡ Fun fact about me, **I am cool 😎**
+- ⚡ Fun fact about me, **I like a good irish trashcan 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
